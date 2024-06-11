@@ -1,0 +1,690 @@
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/tensmsxy/public_html/api/service/fastsms.php on line 10
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tensmsxy_otp'@'localhost' to database 'DB_NAME' in /home/tensmsxy/public_html/api/service/fastsms.php on line 10
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/tensmsxy/public_html/api/service/fastsms.php on line 14
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Notice:  Undefined variable: parameter in /home/tensmsxy/public_html/api/service/fastsms.php on line 23
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Warning:  array_slice() expects at least 2 parameters, 1 given in /home/tensmsxy/public_html/api/service/fastsms.php on line 24
+[29-Dec-2023 13:26:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/tensmsxy/public_html/api/service/fastsms.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tensmsxy/public_html/api/service/fastsms.php on line 54
+[29-Dec-2023 13:28:21 Asia/Kolkata] PHP Notice:  Undefined variable: parameter in /home/tensmsxy/public_html/api/service/fastsms.php on line 12
+[29-Dec-2023 13:28:21 Asia/Kolkata] PHP Warning:  array_slice() expects at least 2 parameters, 1 given in /home/tensmsxy/public_html/api/service/fastsms.php on line 13
+[29-Dec-2023 13:28:23 Asia/Kolkata] PHP Notice:  Undefined index: tg_3 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:24 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:24 Asia/Kolkata] PHP Notice:  Undefined index: wa_5 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:30 Asia/Kolkata] PHP Notice:  Undefined index: ads in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:30 Asia/Kolkata] PHP Notice:  Undefined index: agb in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:28:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:25 Asia/Kolkata] PHP Notice:  Undefined index: opb in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:56 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:29:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Undefined offset: 22 in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[29-Dec-2023 13:30:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tensmsxy/public_html/api/service/fastsms.php on line 21
+[30-Dec-2023 15:10:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[30-Dec-2023 15:29:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[02-Jan-2024 02:06:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[02-Jan-2024 08:39:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[02-Jan-2024 18:16:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 05:24:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[03-Jan-2024 10:37:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 11:57:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 18:50:37 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[03-Jan-2024 22:45:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:45:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:46:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:47:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:48:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:48:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:49:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:49:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:49:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 22:49:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[03-Jan-2024 23:21:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[03-Jan-2024 23:21:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[03-Jan-2024 23:30:32 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[04-Jan-2024 09:01:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 09:03:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 09:03:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 16:35:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 16:36:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 18:18:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[04-Jan-2024 18:18:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[04-Jan-2024 21:00:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[04-Jan-2024 21:22:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[04-Jan-2024 22:54:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[05-Jan-2024 11:55:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 16:46:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 16:59:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[05-Jan-2024 17:00:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[05-Jan-2024 18:13:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 18:13:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 18:15:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 19:01:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 19:01:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 19:45:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 19:50:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 20:05:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 20:07:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 20:55:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:04:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:04:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:11:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:11:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:11:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:11:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:16:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:16:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:50:36 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:50:36 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:50:37 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:50:38 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:53:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[05-Jan-2024 21:55:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[05-Jan-2024 21:55:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[06-Jan-2024 00:07:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[06-Jan-2024 06:20:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[06-Jan-2024 06:20:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[06-Jan-2024 06:20:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[06-Jan-2024 11:57:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[06-Jan-2024 19:15:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[06-Jan-2024 19:15:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[06-Jan-2024 21:33:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[07-Jan-2024 00:10:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[07-Jan-2024 11:42:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[07-Jan-2024 14:31:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[07-Jan-2024 14:31:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[07-Jan-2024 19:09:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[07-Jan-2024 20:27:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[07-Jan-2024 20:36:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[08-Jan-2024 18:08:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[08-Jan-2024 18:08:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[08-Jan-2024 19:47:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:47:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:47:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:48:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:50:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:50:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:57:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 20:57:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:00:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:01:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:01:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:03:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:03:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:05:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:06:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:06:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[08-Jan-2024 21:37:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[09-Jan-2024 07:48:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:49:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:50:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:50:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:52:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:52:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:53:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:54:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:55:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:56:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:56:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:56:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:56:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 07:57:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 17:36:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Resource temporarily unavailable in /home/tensmsxy/public_html/include/connect.php on line 2
+[09-Jan-2024 20:15:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:15:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:15:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:15:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:16:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:16:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:16:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 20:16:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[09-Jan-2024 22:40:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 05:51:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 13:02:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 13:05:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 13:05:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 13:05:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 13:05:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 14:10:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 14:35:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 14:35:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[10-Jan-2024 15:43:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:45:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:45:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:45:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:46:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:46:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[10-Jan-2024 15:46:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[10-Jan-2024 15:48:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[10-Jan-2024 15:50:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:57:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/include/connect.php on line 2
+[10-Jan-2024 15:57:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/tensmsxy/public_html/class/class.control.php on line 6
+[10-Jan-2024 20:12:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 20:12:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 20:12:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 20:12:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[10-Jan-2024 20:12:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tensmsxy/public_html/api/service/ActiveNumber.php on line 26
+[22-Jan-2024 22:02:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 22:02:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 22:02:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 22:02:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 22:59:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 22:59:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:00:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:00:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:05:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:05:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:06:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:06:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:06:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:06:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:06:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:06:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:06:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:06:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:06:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:06:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:27:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:27:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:30:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[22-Jan-2024 23:30:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[22-Jan-2024 23:30:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[23-Jan-2024 01:32:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[23-Jan-2024 01:32:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[23-Jan-2024 18:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[23-Jan-2024 18:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[23-Jan-2024 18:18:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 46
+[23-Jan-2024 18:18:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/muftotpx/public_html/api/service/buynumber.php on line 47
+[23-Jan-2024 21:09:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/muftotpx/public_html/api/service/ActiveNumber.php on line 26
+[25-Jan-2024 21:04:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/muftotpx/public_html/api/service/ActiveNumber.php on line 26
