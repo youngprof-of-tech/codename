@@ -28,11 +28,33 @@ return;
 }
 elseif(isset($user_id) && $status != "cancelled"){
 
-    $query = $conn->query("UPDATE user_wallet 
-    SET balance = balance + '$amount', 
-        total_recharge = total_recharge + '$amount', 
-        total_otp = total_otp + '$quantity' 
-    WHERE user_id = '$user_id'");
+    // Check if the user exists in the database
+    $check_query = $conn->prepare("SELECT COUNT(*) FROM user_wallet WHERE user_id = ?");
+    $check_query->bind_param("s", $user_id);
+    $check_query->execute();
+    $check_query->bind_result($count);
+    $check_query->fetch();
+    $check_query->close();
+
+    if ($count > 0) {
+        // User exists, perform an update
+        $update_query = $conn->prepare("UPDATE user_wallet 
+            SET balance = balance + ?, 
+                total_recharge = total_recharge + ?, 
+                total_otp = total_otp + ? 
+            WHERE user_id = ?");
+        $update_query->bind_param("ddds", $amount, $amount, $quantity, $user_id);
+        $update_query->execute();
+        $update_query->close();
+    } else {
+        // User does not exist, perform an insert
+        $insert_query = $conn->prepare("INSERT INTO user_wallet (user_id, balance, total_recharge, total_otp) 
+            VALUES (?, ?, ?, ?)");
+        $insert_query->bind_param("sddd", $user_id, $amount, $amount, $quantity);
+        $insert_query->execute();
+        $insert_query->close();
+    }
+
 
 
     $query_1 = $conn->query("INSERT INTO upi_recharge SET amount = '$amount', user_id = '$user_id', txn_id = '$tx_ref', recharge_time = '".Date("Y:m:d H:i:s")."', status = 'paid'");
