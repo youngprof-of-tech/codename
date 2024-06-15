@@ -4,7 +4,7 @@
             <div class="flex justify-between items-center px-4 py-3">
                 <a href="#" class="main-logo flex items-center shrink-0">
                     <img class="w-10 ml-[5px] flex-none" src="https://cdn-icons-png.flaticon.com/512/8032/8032096.png" alt="image" />
-                    <span class="text-2xl ltr:ml-1.5 rtl:mr-1.5  font-semibold  align-middle lg:inline dark:text-white-light"><?php echo $web_name;?></span>
+                    <span class="text-2xl ltr:ml-1.5 rtl:mr-1.5  font-semibold  align-middle lg:inline dark:text-white-light"></span>
                 </a>
                 <a href="javascript:;" class="collapse-icon w-8 h-8 rounded-full flex items-center hover:bg-gray-500/10 dark:hover:bg-dark-light/10 dark:text-white-light transition duration-300 rtl:rotate-180" @click="$store.app.toggleSidebar()">
                     <svg class="w-5 h-5 m-auto" width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

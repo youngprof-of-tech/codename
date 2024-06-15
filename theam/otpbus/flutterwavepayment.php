@@ -1,5 +1,5 @@
 <?php 
-$page_name = "Buy Numbers";
+$page_name = "Recharge";
 include 'include/header-main.php'; 
 ?>
 <script>

@@ -94,7 +94,7 @@ include("include/slidebar.php");
                                         <div class="d-flex align-items-center">
                                             <p id="num" class="text-black mb-0" style="color: black">+<?php echo $transaction['number']; ?></p>
                                         </div>
-                                        <p id="service-name" class="d-inline text-sm mb-2"><?php echo $transaction['service_name']; ?> - ₹<?php echo $transaction['service_price']; ?> <!-- (S:<?php echo $transaction['server_id']; ?>) --> <?php echo $transaction['buy_time']; ?></p>
+                                        <p id="service-name" class="d-inline text-sm mb-2"><?php echo $transaction['service_name']; ?> - ₦<?php echo $transaction['service_price']; ?> <!-- (S:<?php echo $transaction['server_id']; ?>) --> <?php echo $transaction['buy_time']; ?></p>
                                     </div>
                                 </div>
                                 <div class="d-flex" style="margin-top: 10px;">

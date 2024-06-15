@@ -33,7 +33,7 @@ include 'include/header-main-auth.php';
             <!--             <p class="mt-2">Don't Have Token  ? <a href="https://telegram.me/KGet_token_bot" target="_blank" class="text-primary font-bold hover:underline">Get Token</a></p>                         -->
             <!--</div>-->
             <div>
-            <center><div class="g-recaptcha" data-sitekey="6Ldwgu4pAAAAAFif9_k6FnqcowdnEc_C5lzhOs09"></div></center>
+            <center><div class="g-recaptcha" data-sitekey="<?php echo $site_data['captcha_public_key'];?>"></div></center>
             </div>
              <center><button type="submit" id="register" class="btn btn-primary w-full">Sign Up</button></center>
         </div><br>

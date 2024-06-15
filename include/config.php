@@ -1,5 +1,5 @@
 <?php
-error_reporting(1);
+//error_reporting(0);
 
 date_default_timezone_set('Asia/Kolkata');
 define('DB_SERVER', 'localhost'); //localhost
@@ -18,6 +18,6 @@ $website_url = 'http://'.$_SERVER['HTTP_HOST'];
 
 
 define("THEAM", $theam);
-define("WEBSITE_URL",'https://demo1.onemediahost.com');
+define("WEBSITE_URL",'https://cheapestotp.store');
 
 ?>

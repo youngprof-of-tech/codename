@@ -346,7 +346,7 @@ document.getElementById("cards_page").innerHTML = `
         </div>
         <center>
             <img src="<?php echo $site_data['upi_qr'];?>" height="200" width="200" style="margin-top: 0;">
-            <p style="color: red;">Minimum Recharge Amount is ₹<?php echo $site_data['upi_min_recharge'];?></p>
+            <p style="color: red;">Minimum Recharge Amount is ₦<?php echo $site_data['upi_min_recharge'];?></p>
         </center>
         <div style="position: relative; margin-top: 8px; text-align: left;"> <!-- Adjusted for left alignment -->
             <div class="flex">
@@ -465,7 +465,7 @@ $.ajax({
                 <input id="iconRight" type="text" value="${json2.message}" class="form-input text-center ltr:rounded-r-none rtl:rounded-l-none" readonly/>
                   </div>
                    <div class="mt-2 text-center">
-                        <span class="badge rounded-pill bg-primary">1 TRX = ₹ ${json.trx}</span>
+                        <span class="badge rounded-pill bg-primary">1 TRX = ₦ ${json.trx}</span>
                     </div>
                         <p style="color: red;" class="text-center mt-2">Minimum Deposit is <?php echo $site_data['trx_minimum'];?> TRX ( TRC20 )</p>       
               <br>
@@ -505,7 +505,7 @@ document.getElementById("cards_page").innerHTML = `    <div class="col-lg-6">
                 <input id="iconRight" onclick="copy('${json2.data.address}')" {type="text" value="${json2.data.address}" class="form-input text-center ltr:rounded-r-none rtl:rounded-l-none" readonly/>
                   </div>
                    <div class="mt-2 text-center">
-                        <span class="badge rounded-pill bg-primary">1 TRX = ₹ ${json.trx}</span>
+                        <span class="badge rounded-pill bg-primary">1 TRX = ₦ ${json.trx}</span>
                     </div>
                         <p style="color: red;" class="text-center mt-2">Minimum Deposit is <?php echo $site_data['trx_minimum'];?> TRX ( TRC20 )</p>       
               <br>
@@ -577,7 +577,7 @@ $.ajax({
                 <input id="iconRight" type="text" value="${json2.message}" class="form-input text-center ltr:rounded-r-none rtl:rounded-l-none" readonly/>
                   </div>
                    <div class="mt-2 text-center">
-                        <span class="badge rounded-pill bg-primary">1 USDT = ₹ ${json.usdt}</span>
+                        <span class="badge rounded-pill bg-primary">1 USDT = ₦ ${json.usdt}</span>
                     </div>
                         <p style="color: red;" class="text-center mt-2">Minimum Deposit is <?php echo $site_data['usdt_minimum'];?> USDT ( SOL )</p>       
               <br>
@@ -617,7 +617,7 @@ document.getElementById("cards_page").innerHTML = `    <div class="col-lg-6">
                 <input id="iconRight" onclick="copy('${json2.data.address}')" {type="text" value="${json2.data.address}" class="form-input text-center ltr:rounded-r-none rtl:rounded-l-none" readonly/>
                   </div>
                    <div class="mt-2 text-center">
-                        <span class="badge rounded-pill bg-primary">1 USDT = ₹ ${json.usdt}</span>
+                        <span class="badge rounded-pill bg-primary">1 USDT = ₦ ${json.usdt}</span>
                     </div>
                         <p style="color: red;" class="text-center mt-2">Minimum Deposit is <?php echo $site_data['usdt_minimum'];?> USDT ( SOL )</p>       
               <br>

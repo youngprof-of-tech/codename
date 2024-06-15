@@ -64,7 +64,7 @@ include("include/slidebar.php");
                 </div>
             </div>
             <center><img src="<?php echo $site_data['upi_qr'];?>" height="200" width="200" style="margin-top: 0;">
-            <p style="color: red;">Minimum Recharge Amount is ₹<?php echo $site_data['upi_min_recharge'];?></p></center>
+            <p style="color: red;">Minimum Recharge Amount is ₦<?php echo $site_data['upi_min_recharge'];?></p></center>
             
              <div style="position: relative; margin-top: 8px;">
     <input type="text" class="form-control" id="upi_copy" value="<?php echo $site_data['upi_id'];?>" style="padding-right: 40px; height:40px;" readonly>

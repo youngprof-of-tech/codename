@@ -213,7 +213,7 @@ include 'include/header-main.php';
                                     "<td>" + item.id + "</td>" +
                                     "<td>" + item.service_name + "</td>" +
                                     "<td>+" + item.number + "</td>" +
-                                    "<td>₹" + item.amount + "</td>" +
+                                    "<td>₦" + item.amount + "</td>" +
                                     "<td>" + item.date + "</td>" +
                                    "<td onclick='copyText(\"" + item.sms_text + "\")'>" + item.sms_text + "</td>" +
                                     "</tr>";

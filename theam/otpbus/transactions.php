@@ -210,7 +210,7 @@ include 'include/header-main.php';
                                 return "<tr>" +
                                     "<td>" + item.id + "</td>" +
                                     "<td>" + item.type + "</td>" +
-                                    "<td>₹" + item.amount + "</td>" +
+                                    "<td>₦" + item.amount + "</td>" +
                                     "<td>" + item.date + "</td>" +
                                     "<td>" + status_bages + "</td>" +
                                     "</tr>";

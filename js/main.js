@@ -266,7 +266,7 @@ if (data.data.length === 0) {
                     <p id="num" class="ml-2">+${item.number}</p>
                     <span id="copy" onclick="copyToClipboard(${item.number})" class="copy-icon ml-2 cursor-pointer"><i class="far fa-copy me-2"></i></span>
                 </div>
-                <p id="service-name" class="inline-block text-sm mb-0 ml-2">${item.app} - ₹${item.amount}</p>
+                <p id="service-name" class="inline-block text-sm mb-0 ml-2">${item.app} - ₦${item.amount}</p>
             </div>
         </div>
         <div class="relative">

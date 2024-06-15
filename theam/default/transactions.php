@@ -96,7 +96,7 @@ include("include/slidebar.php");
                                     <img id="flagimg" src="<?php echo $img; ?>" height="45" width="45" class="me-2">
                                     <div class="flex-grow-1 mb-0">
                                         <div class="d-flex align-items-center">
-                                            <p id="num" class="text-black mb-0" style="color: black; font-size:20px; font-weight: bold;">₹<?php echo $transaction['amount']; ?></p>
+                                            <p id="num" class="text-black mb-0" style="color: black; font-size:20px; font-weight: bold;">₦<?php echo $transaction['amount']; ?></p>
                                         </div>
                                         <p id="service-name" class="d-inline text-sm mb-2"><?php echo $transaction['type']; ?> - <?php echo $transaction['date']; ?></p>
                                     </div>

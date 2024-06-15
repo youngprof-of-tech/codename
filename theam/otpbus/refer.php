@@ -75,7 +75,7 @@ include 'include/header-main.php';
                                 </svg>
                             </div>
                             <div class="ltr:ml-4 rtl:mr-4 flex items-start justify-between flex-auto font-semibold">
-                                <h6 class="text-white-dark text-[13px] dark:text-white-dark">Total Transfer Amount <span class="block text-base text-[#515365] dark:text-white-light">₹<?php echo $referwallet['transfer'];?></span></h6>
+                                <h6 class="text-white-dark text-[13px] dark:text-white-dark">Total Transfer Amount <span class="block text-base text-[#515365] dark:text-white-light">₦<?php echo $referwallet['transfer'];?></span></h6>
                              </div>
                         </div>
                     </div>

@@ -45,7 +45,7 @@ if ($amount < 0) {
             echo '{"status": "500","msg": "Not Enough Refer Balance"}';
         }
         } else {
-           echo '{"status": "500","msg": "Minimum Transfer Amount is ₹'.$site_data['min_redeem'].'"}';                    
+           echo '{"status": "500","msg": "Minimum Transfer Amount is ₦'.$site_data['min_redeem'].'"}';                    
         }
         }
     }

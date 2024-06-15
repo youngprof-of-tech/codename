@@ -46,7 +46,7 @@ $(document).ready(function () {
   var option32 = "<option value=\"\" selected disabled>Select Service</option>"; // Escape the double quotes
     $("#service-id").append(option32);          
         data['service'].forEach(service => {
-            var option33 = "<option value=" + service['id'] + ">" + service['service_name'] + ' - ' + '₹' + service['service_price'] + "</option>";
+            var option33 = "<option value=" + service['id'] + ">" + service['service_name'] + ' - ' + '₦' + service['service_price'] + "</option>";
             $("#service-id").append(option33);
                     
         });
@@ -59,13 +59,8 @@ $(document).ready(function () {
  
     
   $("#buy-numbers").click(function () {
-   
        var server = $("#server-id option:selected").val();  
-         var service = $("#service-id option:selected").val(); 
-         
-       
-        //  alert(service);
-
+         var service = $("#service-id option:selected").val();       
          var token = $("#token").val();
           if (server == "") {
     console.log("Select Server");

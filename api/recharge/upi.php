@@ -74,7 +74,7 @@ if(mysqli_num_rows($sql100) == 0){
                            $total_earn_refer = $by_total_earn + $add_refer_bal;                                                                 
                        mysqli_query($conn, "UPDATE refer_data SET balance='$total_add_refer', total_earn='$total_earn_refer' WHERE own_code='".$refer_data['refer_by']."'"); 
                       }
-                             $msg = '{"status":"200","message":"₹'.$amount.' Credit In Your Account"}';                     
+                             $msg = '{"status":"200","message":"₦'.$amount.' Credit In Your Account"}';                     
                     }else{
                         $msg = '{"status":"200","message":"Payment Not Found [Cheater]"}';                      
                     }                               

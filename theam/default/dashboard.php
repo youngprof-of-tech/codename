@@ -46,7 +46,7 @@ include("include/slidebar.php");
                         <div class="overview-content w-100">
                             <div class=" ap-po-details-content d-flex flex-wrap justify-content-between">
                                 <div class="ap-po-details__titlebar">
-                                    <h1>₹<?php echo $data['balance'];?></h1>
+                                    <h1>₦<?php echo $data['balance'];?></h1>
                                     <p>BALANCE</p>
                                 </div>
                                 <div class="ap-po-details__icon-area">
@@ -65,7 +65,7 @@ include("include/slidebar.php");
                         <div class="overview-content w-100">
                             <div class=" ap-po-details-content d-flex flex-wrap justify-content-between">
                                 <div class="ap-po-details__titlebar">
-                                    <h1>₹<?php echo $data['total_recharge'];?></h1>
+                                    <h1>₦<?php echo $data['total_recharge'];?></h1>
                                     <p>TOTAL RECHARGE</p>
                                 </div>
                                 <div class="ap-po-details__icon-area">
