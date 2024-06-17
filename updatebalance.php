@@ -26,7 +26,7 @@ return;
 	header('location: otp');	
 return;	
 }
-elseif(isset($user_id) && $status != "cancelled"){
+elseif(isset($user_id) && $status == "completed"){
     // Check if the user exists in the database
     $check_query = $conn->prepare("SELECT COUNT(*) FROM user_wallet WHERE user_id = ?");
     $check_query->bind_param("s", $user_id);
@@ -59,9 +59,9 @@ elseif(isset($user_id) && $status != "cancelled"){
 
     if($query_1){
         $wallet->closeConnection();
-        include_once __DIR__ . '/theam/' . THEAM . '/flutterwavepayment.php';        
+        header("location: flutterwavepayment.php");        
     }
 }
 $wallet->closeConnection();
-include_once __DIR__ . '/theam/' . THEAM . '/flutterwavepayment.php';
+header("location: flutterwavepayment.php");
 ?>
